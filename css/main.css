@@ -62,10 +62,6 @@ img {
     color: var(--light);
 }
 
-/* Top Container */
-.top-container {
-}
-
 /* Showcase */
 .showcase {
     grid-area: showcase;
@@ -236,7 +232,6 @@ img {
         grid-template-areas:
                 'showcase showcase';
     }
-
     .showcase h1    {
         font-size: 2.5rem;
     }
